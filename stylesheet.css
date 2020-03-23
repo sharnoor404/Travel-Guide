@@ -2,17 +2,18 @@ ul.navbar-nav li{
   margin-left:50px;
   margin-right:50px;
 }
-/*
+
 .jumbotron{
     text-align: center;
     background: none;
 }
 
 .sectionLight{
-    background-color: #eceeef;
+    display: block;
+    background-color: #ffffff;
     padding: 2rem;
 }
-
+/*
 .sectionDark{
     background-color: #cccccc;
     padding: 2rem;
