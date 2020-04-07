@@ -40,7 +40,7 @@ ul li a{
     padding: 5px;
     font-size: 18px;
     font-family: sans-serif;
-    color: gray;
+    color:gainsboro;
     text-transform: uppercase;
     transition: 0.5s;
     margin: auto;
@@ -138,8 +138,8 @@ p{
   transition: transform .2s; /* Animation */
     display: block;
     margin:auto;
-    width: 350px;
-    height: 350px;
+    width: 380px;
+    height: 380px;
 
 
 }
@@ -388,14 +388,17 @@ button.coolStuffBtn{
 
 .fa-facebook-square{
   color:#3b5998;  
+/*    color: skyblue;*/
 }
 
 .fa-google{
     color:#c32f10;
+   
 }
 
 .fa-instagram{
-     color:#3f729b;
+/*     color:#3f729b;*/
+    color:#ff3385;
 }
 
 .fa-twitter{
