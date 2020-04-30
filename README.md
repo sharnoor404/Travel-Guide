@@ -1,0 +1,1 @@
+A website built using CSS,HTML,JAVA SCRIPT and BOOTSTRAP that suggests users some of the best places to visit around the world and provides necessary information regarding them.
